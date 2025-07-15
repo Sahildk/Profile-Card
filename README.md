@@ -7,7 +7,7 @@ It was created as a fun side activity to showcase basic component structure, sty
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://sahildk.github.io/profile-card-react)  
+👉 [Click here to view the live site](https://sahildk.github.io/Profile-Card/)  
 
 ---
 
